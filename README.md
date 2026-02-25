@@ -108,5 +108,4 @@ Hospital_Readmission_Project/
 5. **Business Translation:** Connected technical metrics to dollar impact (1100% ROI)
 
 ## Contact
-[Your Name]  
-[LinkedIn] | [GitHub] | [Email]
+Vaishnavi Kurelli
