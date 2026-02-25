@@ -1,0 +1,8 @@
+Metric,Value
+Total Patients,20354
+Actual Readmissions,2271
+Predicted High Risk,2664
+Model Recall,70.0%
+Model ROC-AUC,0.676
+Estimated Annual Savings,$43.71M
+ROI,1100%

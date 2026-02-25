@@ -1,0 +1,11 @@
+Feature,Importance,Feature_Clean
+number_inpatient,0.15522787,Prior Inpatient Visits
+discharge_disposition_id,0.065412715,Discharge Disposition
+diabetesMed,0.027753532,On Diabetes Medication
+total_prior_visits,0.026889896,Total Prior Hospital Visits
+glyburide-metformin,0.026126018,Glyburide-Metformin Usage
+number_diagnoses,0.025871223,Number of Diagnoses
+metformin,0.025519097,Metformin Usage
+payer_code,0.02469753,Insurance Payer
+diag_1_category,0.024676304,Primary Diagnosis Category
+admission_source_id,0.02379539,Admission Source

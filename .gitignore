@@ -1,0 +1,8 @@
+*.pkl
+*.pyc
+__pycache__/
+.DS_Store
+.ipynb_checkpoints/
+*.log
+.env
+anaconda_projects/
