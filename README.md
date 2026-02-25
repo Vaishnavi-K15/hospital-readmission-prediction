@@ -106,6 +106,3 @@ Hospital_Readmission_Project/
 3. **Threshold Tuning:** Adjusting decision threshold from 0.5 to 0.418 significantly improved recall (53% → 70%)
 4. **Class Imbalance:** Using class weights outperformed SMOTE for this dataset
 5. **Business Translation:** Connected technical metrics to dollar impact (1100% ROI)
-
-## Contact
-Vaishnavi Kurelli
